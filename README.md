@@ -1,4 +1,4 @@
-![Zhofran](img/header.png)
+![Zhofran](img/header.PNG)
 # Hallow! I'm Zhofran
 
 
