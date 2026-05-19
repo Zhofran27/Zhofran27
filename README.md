@@ -1,5 +1,5 @@
 ![Zhofran](img/header.PNG)
-# Hallow! I'm Zhofran
+# Hallow! I'm Zhofran 👋
 
 
 ## Socials:
