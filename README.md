@@ -11,7 +11,3 @@
 ## GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Zhofran27&theme=transparent&hide_border=false)<br/>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
